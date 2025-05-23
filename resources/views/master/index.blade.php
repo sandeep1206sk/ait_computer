@@ -148,7 +148,7 @@
               <ul class="menu-sub">
                 <li class="menu-item">
                   <a href="{{route('stuReg')}}" class="menu-link">
-                    <div data-i18n="Student Registration">Student Registration</div>
+                    <div data-i18n="Student Registration">tudent Registration</div>
                   </a>
                 </li>
                 <li class="menu-item">
